@@ -1,0 +1,3 @@
+print("Namaste GitHub!")
+name = input("Tumhara naam kya hai? ")
+print(f"Hello {name}! Welcome to GitHub!")
